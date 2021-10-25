@@ -1,6 +1,5 @@
 package com.pb.tkachenko.hw4;
 import java.util.Arrays;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Anagram {
